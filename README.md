@@ -9,10 +9,11 @@ Documentation for live events prep; includes cable, distros, networking, fixture
 
 ### Create documentation
 ### Fix existing documentation
-### Share an idea
 ### Translations
 
 ## Why Markdown?
+
+## Share your ideas
 
 ## Thanks
 

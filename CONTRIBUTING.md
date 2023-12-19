@@ -13,6 +13,3 @@
 ### Create new documentation
 ### Fix existing documentation
 ### Translations
-
-## Share an idea
-
